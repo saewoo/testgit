@@ -1,7 +1,3 @@
 <?php
-
-//git php testfile
-echo 1;
-
-
+echo 1; 
 ?>
