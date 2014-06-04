@@ -1,5 +1,5 @@
 <?php
 echo 12; 
 
-eho 11;
+echo 11;
 ?>
